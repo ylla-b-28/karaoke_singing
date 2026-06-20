@@ -1,3 +1,31 @@
+Python All-In-One Karaoke Software GitHub Link: https://github.com/christofsteel/syng.git
+
+Original Desciption:
+
+Syng.Rocks! is a karaoke app that allows you to host karaoke events without much hassle. Whether you have a big collection of karaoke songs, or just want to stream karaoke songs from YouTube, whether you want to sing with a couple of friends or with a crowd of over 100 people, Syng.Rocks! has you covered in a privacy-friendly manner. No need to register, no need to log in, Syng.Rocks! will never collect any personal data from you. You can even host your own server if you want to.
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/christofsteel/syng/refs/heads/main/resources/icons/hicolor/512x512/apps/rocks.syng.Syng.png"
         height="130">
